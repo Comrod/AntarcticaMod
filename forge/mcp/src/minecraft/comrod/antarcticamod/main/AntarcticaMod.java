@@ -1,0 +1,27 @@
+package comrod.antarcticamod.main;
+
+import comrod.antarcticamod.common.CommonProxy;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.Init;
+import cpw.mods.fml.common.Mod.Instance;
+import cpw.mods.fml.common.Mod.PostInit;
+import cpw.mods.fml.common.Mod.PreInit;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.network.NetworkMod;
+
+@Mod(modid = "comrod.antarctica", name = "Antarctica Mod", version = "2.0.0")
+@NetworkMod(clientSideRequired = true, serverSideRequired = false)
+
+public class AntarcticaMod {
+	
+	@Instance("comrod.antarctica")
+	public static AntarcticaMod instance;
+	
+	@SidedProxy(clientSide="comrod.antarcticamod.client.AntarcticaModClientProxy", serverSide="comrod.antarcticamod.common.CommonProxy")
+	public static CommonProxy proxy;
+	
+}
