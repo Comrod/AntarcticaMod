@@ -1,0 +1,27 @@
+package comrod.antarcticamod.main;
+
+import java.util.Random;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+
+public class BlockPermafrost extends Block
+{
+
+	public BlockPermafrost(int par1, Material par2Material)
+	{
+		super(par1, par2Material);
+
+	}
+	
+	public int idDropped(int par1, Random par2Random, int par3)
+	{
+		return AntarcticaMod.permaFrost.blockID;
+	}
+	
+	public int quantityDropped(Random par1Random)
+	{
+		return 1;
+	}
+
+}

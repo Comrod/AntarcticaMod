@@ -18,3 +18,34 @@
 2014-02-16 09:47:50 [CLIENT] [SEVERE] 1281: Invalid value
 2014-02-16 09:47:52 [CLIENT] [SEVERE] Realms: Server not available!
 2014-02-16 09:48:35 [CLIENT] [INFO] Stopping!
+2014-02-16 23:11:30 [CLIENT] [INFO] Setting user: Player229
+2014-02-16 23:11:31 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-16 23:11:32 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-16 23:11:36 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antarctica Mod
+2014-02-16 23:11:37 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antarctica Mod
+2014-02-16 23:11:37 [CLIENT] [SEVERE] Using missing texture, unable to load: minecraft:textures/blocks/MISSING_ICON_TILE_671_Permafrost.png
+2014-02-16 23:11:38 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-02-16 23:11:38 [CLIENT] [SEVERE] @ Post startup
+2014-02-16 23:11:38 [CLIENT] [SEVERE] 1281: Invalid value
+2014-02-16 23:11:39 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-16 23:12:24 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2014-02-16 23:12:27 [CLIENT] [INFO] [CHAT] Usage: /give <player> <item> [amount] [data]
+2014-02-16 23:12:37 [CLIENT] [INFO] [CHAT] That player cannot be found
+2014-02-16 23:12:53 [CLIENT] [INFO] [CHAT] Usage: /give <player> <item> [amount] [data]
+2014-02-16 23:12:56 [CLIENT] [INFO] [CHAT] Unknown command. Try /help for a list of commands
+2014-02-16 23:12:58 [CLIENT] [INFO] [CHAT] <Player229> help
+2014-02-16 23:13:05 [CLIENT] [INFO] [CHAT] 'Permafrost' is not a valid number
+2014-02-16 23:13:23 [CLIENT] [INFO] [CHAT] That player cannot be found
+2014-02-16 23:13:35 [CLIENT] [INFO] [CHAT] Given Permafrost (ID 671) * 1 to Player229
+2014-02-16 23:13:57 [CLIENT] [INFO] Stopping!
+2014-02-16 23:29:41 [CLIENT] [INFO] Setting user: Player800
+2014-02-16 23:29:42 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2014-02-16 23:29:42 [CLIENT] [INFO] Reloading ResourceManager: Default
+2014-02-16 23:29:47 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antarctica Mod
+2014-02-16 23:29:48 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Antarctica Mod
+2014-02-16 23:29:48 [CLIENT] [SEVERE] Using missing texture, unable to load: antarcticamod:textures/blocks/permafrost.png.png
+2014-02-16 23:29:48 [CLIENT] [SEVERE] ########## GL ERROR ##########
+2014-02-16 23:29:48 [CLIENT] [SEVERE] @ Post startup
+2014-02-16 23:29:48 [CLIENT] [SEVERE] 1281: Invalid value
+2014-02-16 23:29:50 [CLIENT] [SEVERE] Realms: Server not available!
+2014-02-16 23:30:32 [CLIENT] [INFO] Stopping!
